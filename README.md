@@ -6,7 +6,7 @@
   <img width="900" alt="data-banner" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZxN3pyNDF1b2x2cHhpczloYXZ2Z2p1cnN1OGV6a2o2dGd6eTI2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-# 👋 Hi there — I'm Kerolles Abo alnasr Kamal
+#  Hi there — I'm Kerolles Abo alnasr Kamal
 #### Data Analyst • DEPI Data Analysis Track (2025) • Accounting background  
 > "Numbers have stories, and I'm here to tell them through data."
 
@@ -23,21 +23,21 @@
 
 ---
 
-# 📚 About Me
-I’m **Kerolles Abo alnasr Kamal**, a passionate data analyst in the making,  
+#  About Me
+I’m **Kerolles Abo alnasr Kamal**, a passionate data analyst,  
 currently enrolled in the **DEPI Data Analysis Track**.  
 With accounting experience and certifications from Microsoft & the Ministry of Communications,  
 I transform raw datasets into impactful dashboards and insights.
 
 ---
 
-# 🎓 Education
+#  Education
 - **DEPI Data Analysis Track** — Ministry of Communications (2025)  
 - **Bachelor’s Degree in Education** — El Minia University (Expected 2027)
 
 ---
 
-# 💼 Work Experience
+#  Work Experience
 - **Intern — Digital Egypt Pioneers Initiative (DEPI)**  
   - Hands-on experience in data cleaning, visualization, and reporting  
 
@@ -47,7 +47,7 @@ I transform raw datasets into impactful dashboards and insights.
 
 ---
 
-# 🛠️ Skills
+#  Skills
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -60,13 +60,13 @@ I transform raw datasets into impactful dashboards and insights.
 
 ---
 
-# 🚀 Projects
+#  Projects
 - **Financial Dashboard** — Automated reporting & KPIs (Excel + Power BI)  
 - **Python Data Cleaning Scripts** — ETL for accounting data  
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 <p align="center">
   <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=kero207&show_icons=true&theme=tokyonight"/>
   <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero207&layout=compact&theme=tokyonight"/>
@@ -74,12 +74,12 @@ I transform raw datasets into impactful dashboards and insights.
 
 ---
 
-# 🤝 Get in Touch
+#  Get in Touch
 - 📧 Email: keromansour89@gmail.com  
 - 💼 LinkedIn: [Kerolles Abo alnasr Kamal](https://www.linkedin.com/in/kerolles-abo-alnasr-21510a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ — Kerolles Abo alnasr Kamal</sub>
+  <sub>Made with  — Kerolles Abo alnasr Kamal ❤️‍🩹</sub>
 </p></p>
