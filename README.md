@@ -31,9 +31,6 @@ I transform raw datasets into impactful dashboards and insights.
 
 ---
 
-#  Education
-- **DEPI Data Analysis Track** — Ministry of Communications (2025)  
-- **Bachelor’s Degree in Education** — El Minia University (Expected 2027)
 
 ---
 
